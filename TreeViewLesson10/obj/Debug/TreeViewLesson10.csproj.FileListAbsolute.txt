@@ -1,0 +1,10 @@
+C:\Users\dev.itstep\source\repos\TreeViewLesson10\TreeViewLesson10\bin\Debug\TreeViewLesson10.exe.config
+C:\Users\dev.itstep\source\repos\TreeViewLesson10\TreeViewLesson10\bin\Debug\TreeViewLesson10.exe
+C:\Users\dev.itstep\source\repos\TreeViewLesson10\TreeViewLesson10\bin\Debug\TreeViewLesson10.pdb
+C:\Users\dev.itstep\source\repos\TreeViewLesson10\TreeViewLesson10\obj\Debug\TreeViewLesson10.csprojAssemblyReference.cache
+C:\Users\dev.itstep\source\repos\TreeViewLesson10\TreeViewLesson10\obj\Debug\TreeViewLesson10.Form1.resources
+C:\Users\dev.itstep\source\repos\TreeViewLesson10\TreeViewLesson10\obj\Debug\TreeViewLesson10.Properties.Resources.resources
+C:\Users\dev.itstep\source\repos\TreeViewLesson10\TreeViewLesson10\obj\Debug\TreeViewLesson10.csproj.GenerateResource.cache
+C:\Users\dev.itstep\source\repos\TreeViewLesson10\TreeViewLesson10\obj\Debug\TreeViewLesson10.csproj.CoreCompileInputs.cache
+C:\Users\dev.itstep\source\repos\TreeViewLesson10\TreeViewLesson10\obj\Debug\TreeViewLesson10.exe
+C:\Users\dev.itstep\source\repos\TreeViewLesson10\TreeViewLesson10\obj\Debug\TreeViewLesson10.pdb

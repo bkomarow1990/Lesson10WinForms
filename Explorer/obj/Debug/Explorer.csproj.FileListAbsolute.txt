@@ -1,0 +1,10 @@
+C:\Users\dev.itstep\source\repos\TreeViewLesson10\Explorer\bin\Debug\Explorer.exe.config
+C:\Users\dev.itstep\source\repos\TreeViewLesson10\Explorer\bin\Debug\Explorer.exe
+C:\Users\dev.itstep\source\repos\TreeViewLesson10\Explorer\bin\Debug\Explorer.pdb
+C:\Users\dev.itstep\source\repos\TreeViewLesson10\Explorer\obj\Debug\Explorer.Form1.resources
+C:\Users\dev.itstep\source\repos\TreeViewLesson10\Explorer\obj\Debug\Explorer.Properties.Resources.resources
+C:\Users\dev.itstep\source\repos\TreeViewLesson10\Explorer\obj\Debug\Explorer.csproj.GenerateResource.cache
+C:\Users\dev.itstep\source\repos\TreeViewLesson10\Explorer\obj\Debug\Explorer.csproj.CoreCompileInputs.cache
+C:\Users\dev.itstep\source\repos\TreeViewLesson10\Explorer\obj\Debug\Explorer.exe
+C:\Users\dev.itstep\source\repos\TreeViewLesson10\Explorer\obj\Debug\Explorer.pdb
+C:\Users\dev.itstep\source\repos\TreeViewLesson10\Explorer\obj\Debug\Explorer.csprojAssemblyReference.cache
