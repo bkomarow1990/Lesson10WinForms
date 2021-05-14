@@ -65,6 +65,7 @@ namespace Explorer
                     listView1.Items[listView1.Items.Count - 1].SubItems[1].Text = size;// = new ListViewSubItem(listView1.Items[listView1.Items.Count-1],size);
                     listView1.Items[listView1.Items.Count - 1].SubItems[2].Text = date;// = new ListViewSubItem(listView1.Items[listView1.Items.Count-1],size);
                 }
+                treeView1.Tag = e.Node.Text;
                 //listView1.Items[listView1.Items.Count - 1].Tag = new List<string>(item);
             }
             catch (Exception ex)
@@ -89,7 +90,7 @@ namespace Explorer
             {
                 throw new Exception("Empty");
             }
-            
+            listView1.SelectedItems[0].Text;
             //listView1.SelectedItems[0].Tag[0]
         }
     }
